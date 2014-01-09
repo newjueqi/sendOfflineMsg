@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plugin>
+    <class>org.jivesoftware.openfire.plugin.OfflineMsg</class>
+    <name>Offline Msg</name>
+    <description>send offline msg to other server</description>
+    <author>newjueqi</author>
+    <version>1.0.0</version>
+    <date>12/20/2013</date>
+    <minServerVersion>3.7.0</minServerVersion>
+	
+   
+</plugin>
